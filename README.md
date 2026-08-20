@@ -50,3 +50,5 @@ Para cada funcionalidade que exige lógica não trivial, preencha um bloco:
 
 (duplicar este bloco para cada funcionalidade complexa)
 -->
+
+Referências de Design → Huly[https://huly.io/], Horizontes[https://horizontes.cc/], WebHub[https://grupowebhub.com.br/]
